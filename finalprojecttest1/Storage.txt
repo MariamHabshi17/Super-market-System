@@ -1,0 +1,14 @@
+id  ,  Name  ,  Quantity  ,  Price
+1  / Milk    / 200        / 23
+2  / Cheese  / 200        / 19
+3  / Soup    / 200        / 10
+4  / Meat    / 200        / 300
+5  / Onion   / 200        / 7
+6  / Chicken / 200        / 150
+7  / Cheps   / 200        / 5
+8  / Choclate/ 200        / 25
+9  / Cake    / 200        / 250
+10 / Tomato  / 200        / 5
+11 / Watermilon / 200        / 25
+12 / water  / 200        / 5
+13 / pepsi  / 200        / 7
